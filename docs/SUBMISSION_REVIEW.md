@@ -19,7 +19,7 @@ thời lượng đã làm hoặc hạn nộp.
    Tác giả đã xác nhận; bảng audit riêng cho A/B/C đã được tính, chỉ B/q10/dev đổi điểm.
    Xem results/audit/retrieval_audited_metrics.json. Không sửa số gốc hoặc lựa chọn trước test.
    Các câu khác cũng có thể có bằng chứng tương đương chưa được liệt kê đầy đủ.
-2. Nội dung bài đã commit local tại `df8987a936258e4f33701bc7e97ab397e24d9c4e`; SHA được ghi trong STUDENT.md.
+2. Nội dung bài đã commit local tại `d364e1bd1cbcce3d691fc0101af087392e661d7f`; SHA được ghi trong STUDENT.md.
    Commit thông tin tiếp theo chỉ cập nhật hồ sơ commit và trạng thái, không thay đổi thí nghiệm.
 3. Chưa push/nộp trong phiên làm việc này; chưa xác minh người chấm truy cập repo.
 4. Hướng dẫn tái lập đã có nhưng chưa thử lại từ một máy/môi trường hoàn toàn sạch.
