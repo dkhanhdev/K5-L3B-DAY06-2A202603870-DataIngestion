@@ -1,0 +1,19 @@
+{
+  "status": "student_approved",
+  "reviewer": "Ngô Duy Khánh",
+  "recorded_at": "2026-11-14T03:44:55.735842+00:00",
+  "approval_basis": "Student confirmed PDF page 77 is valid equivalent evidence for q10 in chat.",
+  "scope": "Post-run supplementary scoring of unchanged saved top-3 for all A/B/C; original benchmark, selection and results preserved. This is not a new independent holdout.",
+  "alternatives": [
+    {
+      "question_id": "q10",
+      "gold": {
+        "source_id": "worldbank-eap-2026-10",
+        "page": 77,
+        "evidence_quote": "Second, there is not yet a discernible impact on\nAI-automatable jobs in EMDEs in East Asia\nand Pacific, in contrast with emerging evidence\nof negative impacts in advanced economies\nand other EMDE regions."
+      },
+      "printed_page": 57,
+      "reason": "Both PDF 77 and primary gold PDF 83 state that impacts on AI-automatable jobs in EAP EMDEs are not yet discernible, unlike negative evidence in advanced economies and other EMDE regions."
+    }
+  ]
+}

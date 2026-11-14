@@ -1,0 +1,44 @@
+{
+  "document_id": "worldbank-eap-2026-10",
+  "title": "Riding the AI Wave: East Asia and Pacific Economic Update, October 2026",
+  "source_path": "data/tailieu.pdf",
+  "source_url": "https://doi.org/10.1596/978-1-4648-2362-6",
+  "license_or_permission": "CC BY 3.0 IGO; physical PDF page 6; check third-party content conditions",
+  "accessed_at": "2026-11-14",
+  "local_verified_at": "2026-11-14",
+  "page_start": 75,
+  "page_end": 104,
+  "printed_page_offset": -20,
+  "metadata": {
+    "chapter": 2,
+    "year": 2026,
+    "language": "en"
+  },
+  "sections": [
+    {
+      "start": 75,
+      "end": 78,
+      "section": "Introduction"
+    },
+    {
+      "start": 79,
+      "end": 82,
+      "section": "AI adoption"
+    },
+    {
+      "start": 83,
+      "end": 88,
+      "section": "AI exposure, jobs and skills demand"
+    },
+    {
+      "start": 89,
+      "end": 91,
+      "section": "AI innovation"
+    },
+    {
+      "start": 92,
+      "end": 104,
+      "section": "Policy implications"
+    }
+  ]
+}

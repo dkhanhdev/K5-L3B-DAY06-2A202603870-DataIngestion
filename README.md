@@ -1,5 +1,11 @@
 # Day 06 · Data Ingestion Engineering
 
+> **Pipeline đã triển khai trong repo này:** xem [hướng dẫn chạy](docs/PIPELINE.md),
+> [kết quả dev](results/dev_metrics.json), [kết quả test](results/test_metrics.json)
+> và [báo cáo](report/individual/2A202603870_NgoDuyKhanh.md). Tôi đã đối chiếu các mẫu với tài liệu nguồn
+> và xác nhận điểm đánh giá. Công cụ hỗ trợ và cách kiểm chứng được ghi ở cuối báo cáo.
+> Hướng dẫn đề bài gốc được giữ bên dưới.
+
 **Lab cá nhân** · **4 giờ** · **Dữ liệu tự chọn**
 
 Biến tài liệu thành kho tri thức có thể truy xuất cho AI agent, rồi đo xem cách chuẩn bị dữ liệu nào hiệu quả nhất.
@@ -29,7 +35,7 @@ Dùng cùng dữ liệu, model và câu hỏi cho cả ba cấu hình. Tách **1
 ## 3. Chuẩn bị bài nộp
 
 1. Chạy pipeline và lưu cấu hình, kết quả top-3, trace cùng nhãn đánh giá thủ công.
-2. Điền [thông tin học viên](STUDENT.md), [nhật ký thí nghiệm](artifacts/experiment_log.csv) và bản sao [mẫu báo cáo cá nhân](report/individual/MSSV_HoTen.md).
+2. Điền [thông tin học viên](STUDENT.md), [nhật ký thí nghiệm](artifacts/experiment_log.csv) và bản sao [mẫu báo cáo cá nhân](report/individual/2A202603870_NgoDuyKhanh.md).
 3. Kiểm tra mã nguồn, cách chạy, manifest dữ liệu và checklist trong [SUBMISSION.md](SUBMISSION.md).
 
 ## Tài liệu hướng dẫn

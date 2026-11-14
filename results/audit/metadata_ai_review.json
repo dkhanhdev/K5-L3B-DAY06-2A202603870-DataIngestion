@@ -1,0 +1,902 @@
+[
+  {
+    "strategy": "A",
+    "question_id": "q16",
+    "rank": 1,
+    "chunk_id": "0089261ff52eb800b804cf9fc3fa13f0",
+    "page": 100,
+    "checks": {
+      "document_id": true,
+      "source": true,
+      "page_and_exact_text": true,
+      "printed_page": true,
+      "section_page_level": true,
+      "year": true,
+      "language": true
+    },
+    "complete_and_correct": true,
+    "method": "automated source-offset checks plus Codex contextual review of displayed trace; not student manual labels",
+    "review_status": "ai_review_pending_student_confirmation",
+    "limitation": "Section is a page-level label from contents; not paragraph-level classification."
+  },
+  {
+    "strategy": "A",
+    "question_id": "q16",
+    "rank": 2,
+    "chunk_id": "dcfb69735033761b3d0ca287bb7dbbef",
+    "page": 97,
+    "checks": {
+      "document_id": true,
+      "source": true,
+      "page_and_exact_text": true,
+      "printed_page": true,
+      "section_page_level": true,
+      "year": true,
+      "language": true
+    },
+    "complete_and_correct": true,
+    "method": "automated source-offset checks plus Codex contextual review of displayed trace; not student manual labels",
+    "review_status": "ai_review_pending_student_confirmation",
+    "limitation": "Section is a page-level label from contents; not paragraph-level classification."
+  },
+  {
+    "strategy": "A",
+    "question_id": "q16",
+    "rank": 3,
+    "chunk_id": "0ba0fb69f48c63ae308d24161414ff91",
+    "page": 95,
+    "checks": {
+      "document_id": true,
+      "source": true,
+      "page_and_exact_text": true,
+      "printed_page": true,
+      "section_page_level": true,
+      "year": true,
+      "language": true
+    },
+    "complete_and_correct": true,
+    "method": "automated source-offset checks plus Codex contextual review of displayed trace; not student manual labels",
+    "review_status": "ai_review_pending_student_confirmation",
+    "limitation": "Section is a page-level label from contents; not paragraph-level classification."
+  },
+  {
+    "strategy": "B",
+    "question_id": "q16",
+    "rank": 1,
+    "chunk_id": "5eaeb3ce455f4bcce77a21f68c8b1f87",
+    "page": 95,
+    "checks": {
+      "document_id": true,
+      "source": true,
+      "page_and_exact_text": true,
+      "printed_page": true,
+      "section_page_level": true,
+      "year": true,
+      "language": true
+    },
+    "complete_and_correct": true,
+    "method": "automated source-offset checks plus Codex contextual review of displayed trace; not student manual labels",
+    "review_status": "ai_review_pending_student_confirmation",
+    "limitation": "Section is a page-level label from contents; not paragraph-level classification."
+  },
+  {
+    "strategy": "B",
+    "question_id": "q16",
+    "rank": 2,
+    "chunk_id": "34a54685d2cef9c5902bc05e5be4c3cb",
+    "page": 100,
+    "checks": {
+      "document_id": true,
+      "source": true,
+      "page_and_exact_text": true,
+      "printed_page": true,
+      "section_page_level": true,
+      "year": true,
+      "language": true
+    },
+    "complete_and_correct": true,
+    "method": "automated source-offset checks plus Codex contextual review of displayed trace; not student manual labels",
+    "review_status": "ai_review_pending_student_confirmation",
+    "limitation": "Section is a page-level label from contents; not paragraph-level classification."
+  },
+  {
+    "strategy": "B",
+    "question_id": "q16",
+    "rank": 3,
+    "chunk_id": "5473b9a0eb1000b03073d0e08a232231",
+    "page": 100,
+    "checks": {
+      "document_id": true,
+      "source": true,
+      "page_and_exact_text": true,
+      "printed_page": true,
+      "section_page_level": true,
+      "year": true,
+      "language": true
+    },
+    "complete_and_correct": true,
+    "method": "automated source-offset checks plus Codex contextual review of displayed trace; not student manual labels",
+    "review_status": "ai_review_pending_student_confirmation",
+    "limitation": "Section is a page-level label from contents; not paragraph-level classification."
+  },
+  {
+    "strategy": "C",
+    "question_id": "q16",
+    "rank": 1,
+    "chunk_id": "5eaeb3ce455f4bcce77a21f68c8b1f87",
+    "page": 95,
+    "checks": {
+      "document_id": true,
+      "source": true,
+      "page_and_exact_text": true,
+      "printed_page": true,
+      "section_page_level": true,
+      "year": true,
+      "language": true
+    },
+    "complete_and_correct": true,
+    "method": "automated source-offset checks plus Codex contextual review of displayed trace; not student manual labels",
+    "review_status": "ai_review_pending_student_confirmation",
+    "limitation": "Section is a page-level label from contents; not paragraph-level classification."
+  },
+  {
+    "strategy": "C",
+    "question_id": "q16",
+    "rank": 2,
+    "chunk_id": "34a54685d2cef9c5902bc05e5be4c3cb",
+    "page": 100,
+    "checks": {
+      "document_id": true,
+      "source": true,
+      "page_and_exact_text": true,
+      "printed_page": true,
+      "section_page_level": true,
+      "year": true,
+      "language": true
+    },
+    "complete_and_correct": true,
+    "method": "automated source-offset checks plus Codex contextual review of displayed trace; not student manual labels",
+    "review_status": "ai_review_pending_student_confirmation",
+    "limitation": "Section is a page-level label from contents; not paragraph-level classification."
+  },
+  {
+    "strategy": "C",
+    "question_id": "q16",
+    "rank": 3,
+    "chunk_id": "5473b9a0eb1000b03073d0e08a232231",
+    "page": 100,
+    "checks": {
+      "document_id": true,
+      "source": true,
+      "page_and_exact_text": true,
+      "printed_page": true,
+      "section_page_level": true,
+      "year": true,
+      "language": true
+    },
+    "complete_and_correct": true,
+    "method": "automated source-offset checks plus Codex contextual review of displayed trace; not student manual labels",
+    "review_status": "ai_review_pending_student_confirmation",
+    "limitation": "Section is a page-level label from contents; not paragraph-level classification."
+  },
+  {
+    "strategy": "A",
+    "question_id": "q17",
+    "rank": 1,
+    "chunk_id": "f345e397e6b793d8cb12881cbc7a4f55",
+    "page": 100,
+    "checks": {
+      "document_id": true,
+      "source": true,
+      "page_and_exact_text": true,
+      "printed_page": true,
+      "section_page_level": true,
+      "year": true,
+      "language": true
+    },
+    "complete_and_correct": true,
+    "method": "automated source-offset checks plus Codex contextual review of displayed trace; not student manual labels",
+    "review_status": "ai_review_pending_student_confirmation",
+    "limitation": "Section is a page-level label from contents; not paragraph-level classification."
+  },
+  {
+    "strategy": "A",
+    "question_id": "q17",
+    "rank": 2,
+    "chunk_id": "a477f71c34dc1cfd6252f72512cebfbd",
+    "page": 79,
+    "checks": {
+      "document_id": true,
+      "source": true,
+      "page_and_exact_text": true,
+      "printed_page": true,
+      "section_page_level": true,
+      "year": true,
+      "language": true
+    },
+    "complete_and_correct": true,
+    "method": "automated source-offset checks plus Codex contextual review of displayed trace; not student manual labels",
+    "review_status": "ai_review_pending_student_confirmation",
+    "limitation": "Section is a page-level label from contents; not paragraph-level classification."
+  },
+  {
+    "strategy": "A",
+    "question_id": "q17",
+    "rank": 3,
+    "chunk_id": "e29acb800619d394f757d15ccf6cd4e0",
+    "page": 103,
+    "checks": {
+      "document_id": true,
+      "source": true,
+      "page_and_exact_text": true,
+      "printed_page": true,
+      "section_page_level": true,
+      "year": true,
+      "language": true
+    },
+    "complete_and_correct": true,
+    "method": "automated source-offset checks plus Codex contextual review of displayed trace; not student manual labels",
+    "review_status": "ai_review_pending_student_confirmation",
+    "limitation": "Section is a page-level label from contents; not paragraph-level classification."
+  },
+  {
+    "strategy": "B",
+    "question_id": "q17",
+    "rank": 1,
+    "chunk_id": "5df2ece128c06ad4da1068ed3acdaeb3",
+    "page": 100,
+    "checks": {
+      "document_id": true,
+      "source": true,
+      "page_and_exact_text": true,
+      "printed_page": true,
+      "section_page_level": true,
+      "year": true,
+      "language": true
+    },
+    "complete_and_correct": true,
+    "method": "automated source-offset checks plus Codex contextual review of displayed trace; not student manual labels",
+    "review_status": "ai_review_pending_student_confirmation",
+    "limitation": "Section is a page-level label from contents; not paragraph-level classification."
+  },
+  {
+    "strategy": "B",
+    "question_id": "q17",
+    "rank": 2,
+    "chunk_id": "6e9a761c2b76ca44b1e4ce91d7eaa9f6",
+    "page": 88,
+    "checks": {
+      "document_id": true,
+      "source": true,
+      "page_and_exact_text": true,
+      "printed_page": true,
+      "section_page_level": true,
+      "year": true,
+      "language": true
+    },
+    "complete_and_correct": true,
+    "method": "automated source-offset checks plus Codex contextual review of displayed trace; not student manual labels",
+    "review_status": "ai_review_pending_student_confirmation",
+    "limitation": "Section is a page-level label from contents; not paragraph-level classification."
+  },
+  {
+    "strategy": "B",
+    "question_id": "q17",
+    "rank": 3,
+    "chunk_id": "f5965619dd928215218300e1099caba1",
+    "page": 101,
+    "checks": {
+      "document_id": true,
+      "source": true,
+      "page_and_exact_text": true,
+      "printed_page": true,
+      "section_page_level": true,
+      "year": true,
+      "language": true
+    },
+    "complete_and_correct": true,
+    "method": "automated source-offset checks plus Codex contextual review of displayed trace; not student manual labels",
+    "review_status": "ai_review_pending_student_confirmation",
+    "limitation": "Section is a page-level label from contents; not paragraph-level classification."
+  },
+  {
+    "strategy": "C",
+    "question_id": "q17",
+    "rank": 1,
+    "chunk_id": "5df2ece128c06ad4da1068ed3acdaeb3",
+    "page": 100,
+    "checks": {
+      "document_id": true,
+      "source": true,
+      "page_and_exact_text": true,
+      "printed_page": true,
+      "section_page_level": true,
+      "year": true,
+      "language": true
+    },
+    "complete_and_correct": true,
+    "method": "automated source-offset checks plus Codex contextual review of displayed trace; not student manual labels",
+    "review_status": "ai_review_pending_student_confirmation",
+    "limitation": "Section is a page-level label from contents; not paragraph-level classification."
+  },
+  {
+    "strategy": "C",
+    "question_id": "q17",
+    "rank": 2,
+    "chunk_id": "6e9a761c2b76ca44b1e4ce91d7eaa9f6",
+    "page": 88,
+    "checks": {
+      "document_id": true,
+      "source": true,
+      "page_and_exact_text": true,
+      "printed_page": true,
+      "section_page_level": true,
+      "year": true,
+      "language": true
+    },
+    "complete_and_correct": true,
+    "method": "automated source-offset checks plus Codex contextual review of displayed trace; not student manual labels",
+    "review_status": "ai_review_pending_student_confirmation",
+    "limitation": "Section is a page-level label from contents; not paragraph-level classification."
+  },
+  {
+    "strategy": "C",
+    "question_id": "q17",
+    "rank": 3,
+    "chunk_id": "f5965619dd928215218300e1099caba1",
+    "page": 101,
+    "checks": {
+      "document_id": true,
+      "source": true,
+      "page_and_exact_text": true,
+      "printed_page": true,
+      "section_page_level": true,
+      "year": true,
+      "language": true
+    },
+    "complete_and_correct": true,
+    "method": "automated source-offset checks plus Codex contextual review of displayed trace; not student manual labels",
+    "review_status": "ai_review_pending_student_confirmation",
+    "limitation": "Section is a page-level label from contents; not paragraph-level classification."
+  },
+  {
+    "strategy": "A",
+    "question_id": "q18",
+    "rank": 1,
+    "chunk_id": "3074316f2b562b5251ba7c7306a742b3",
+    "page": 101,
+    "checks": {
+      "document_id": true,
+      "source": true,
+      "page_and_exact_text": true,
+      "printed_page": true,
+      "section_page_level": true,
+      "year": true,
+      "language": true
+    },
+    "complete_and_correct": true,
+    "method": "automated source-offset checks plus Codex contextual review of displayed trace; not student manual labels",
+    "review_status": "ai_review_pending_student_confirmation",
+    "limitation": "Section is a page-level label from contents; not paragraph-level classification."
+  },
+  {
+    "strategy": "A",
+    "question_id": "q18",
+    "rank": 2,
+    "chunk_id": "e0a55a2de3a621b2b4e1ab1b44e5d29e",
+    "page": 101,
+    "checks": {
+      "document_id": true,
+      "source": true,
+      "page_and_exact_text": true,
+      "printed_page": true,
+      "section_page_level": true,
+      "year": true,
+      "language": true
+    },
+    "complete_and_correct": true,
+    "method": "automated source-offset checks plus Codex contextual review of displayed trace; not student manual labels",
+    "review_status": "ai_review_pending_student_confirmation",
+    "limitation": "Section is a page-level label from contents; not paragraph-level classification."
+  },
+  {
+    "strategy": "A",
+    "question_id": "q18",
+    "rank": 3,
+    "chunk_id": "378aa77ec745b0383431162bdc029822",
+    "page": 76,
+    "checks": {
+      "document_id": true,
+      "source": true,
+      "page_and_exact_text": true,
+      "printed_page": true,
+      "section_page_level": true,
+      "year": true,
+      "language": true
+    },
+    "complete_and_correct": true,
+    "method": "automated source-offset checks plus Codex contextual review of displayed trace; not student manual labels",
+    "review_status": "ai_review_pending_student_confirmation",
+    "limitation": "Section is a page-level label from contents; not paragraph-level classification."
+  },
+  {
+    "strategy": "B",
+    "question_id": "q18",
+    "rank": 1,
+    "chunk_id": "c2891eb85f3f1a8e6b5ea7a0fc128d1d",
+    "page": 101,
+    "checks": {
+      "document_id": true,
+      "source": true,
+      "page_and_exact_text": true,
+      "printed_page": true,
+      "section_page_level": true,
+      "year": true,
+      "language": true
+    },
+    "complete_and_correct": true,
+    "method": "automated source-offset checks plus Codex contextual review of displayed trace; not student manual labels",
+    "review_status": "ai_review_pending_student_confirmation",
+    "limitation": "Section is a page-level label from contents; not paragraph-level classification."
+  },
+  {
+    "strategy": "B",
+    "question_id": "q18",
+    "rank": 2,
+    "chunk_id": "f5965619dd928215218300e1099caba1",
+    "page": 101,
+    "checks": {
+      "document_id": true,
+      "source": true,
+      "page_and_exact_text": true,
+      "printed_page": true,
+      "section_page_level": true,
+      "year": true,
+      "language": true
+    },
+    "complete_and_correct": true,
+    "method": "automated source-offset checks plus Codex contextual review of displayed trace; not student manual labels",
+    "review_status": "ai_review_pending_student_confirmation",
+    "limitation": "Section is a page-level label from contents; not paragraph-level classification."
+  },
+  {
+    "strategy": "B",
+    "question_id": "q18",
+    "rank": 3,
+    "chunk_id": "595fcc0beacd6304e4eedf9a2c1de262",
+    "page": 102,
+    "checks": {
+      "document_id": true,
+      "source": true,
+      "page_and_exact_text": true,
+      "printed_page": true,
+      "section_page_level": true,
+      "year": true,
+      "language": true
+    },
+    "complete_and_correct": true,
+    "method": "automated source-offset checks plus Codex contextual review of displayed trace; not student manual labels",
+    "review_status": "ai_review_pending_student_confirmation",
+    "limitation": "Section is a page-level label from contents; not paragraph-level classification."
+  },
+  {
+    "strategy": "C",
+    "question_id": "q18",
+    "rank": 1,
+    "chunk_id": "c2891eb85f3f1a8e6b5ea7a0fc128d1d",
+    "page": 101,
+    "checks": {
+      "document_id": true,
+      "source": true,
+      "page_and_exact_text": true,
+      "printed_page": true,
+      "section_page_level": true,
+      "year": true,
+      "language": true
+    },
+    "complete_and_correct": true,
+    "method": "automated source-offset checks plus Codex contextual review of displayed trace; not student manual labels",
+    "review_status": "ai_review_pending_student_confirmation",
+    "limitation": "Section is a page-level label from contents; not paragraph-level classification."
+  },
+  {
+    "strategy": "C",
+    "question_id": "q18",
+    "rank": 2,
+    "chunk_id": "f5965619dd928215218300e1099caba1",
+    "page": 101,
+    "checks": {
+      "document_id": true,
+      "source": true,
+      "page_and_exact_text": true,
+      "printed_page": true,
+      "section_page_level": true,
+      "year": true,
+      "language": true
+    },
+    "complete_and_correct": true,
+    "method": "automated source-offset checks plus Codex contextual review of displayed trace; not student manual labels",
+    "review_status": "ai_review_pending_student_confirmation",
+    "limitation": "Section is a page-level label from contents; not paragraph-level classification."
+  },
+  {
+    "strategy": "C",
+    "question_id": "q18",
+    "rank": 3,
+    "chunk_id": "595fcc0beacd6304e4eedf9a2c1de262",
+    "page": 102,
+    "checks": {
+      "document_id": true,
+      "source": true,
+      "page_and_exact_text": true,
+      "printed_page": true,
+      "section_page_level": true,
+      "year": true,
+      "language": true
+    },
+    "complete_and_correct": true,
+    "method": "automated source-offset checks plus Codex contextual review of displayed trace; not student manual labels",
+    "review_status": "ai_review_pending_student_confirmation",
+    "limitation": "Section is a page-level label from contents; not paragraph-level classification."
+  },
+  {
+    "strategy": "A",
+    "question_id": "q19",
+    "rank": 1,
+    "chunk_id": "c0109a172048b0ae3949454c17cdfd9d",
+    "page": 103,
+    "checks": {
+      "document_id": true,
+      "source": true,
+      "page_and_exact_text": true,
+      "printed_page": true,
+      "section_page_level": true,
+      "year": true,
+      "language": true
+    },
+    "complete_and_correct": true,
+    "method": "automated source-offset checks plus Codex contextual review of displayed trace; not student manual labels",
+    "review_status": "ai_review_pending_student_confirmation",
+    "limitation": "Section is a page-level label from contents; not paragraph-level classification."
+  },
+  {
+    "strategy": "A",
+    "question_id": "q19",
+    "rank": 2,
+    "chunk_id": "a3f4a57803ae86e887c93fe7e35b5257",
+    "page": 75,
+    "checks": {
+      "document_id": true,
+      "source": true,
+      "page_and_exact_text": true,
+      "printed_page": true,
+      "section_page_level": true,
+      "year": true,
+      "language": true
+    },
+    "complete_and_correct": true,
+    "method": "automated source-offset checks plus Codex contextual review of displayed trace; not student manual labels",
+    "review_status": "ai_review_pending_student_confirmation",
+    "limitation": "Section is a page-level label from contents; not paragraph-level classification."
+  },
+  {
+    "strategy": "A",
+    "question_id": "q19",
+    "rank": 3,
+    "chunk_id": "d3278164a8a633a2228da0952700089c",
+    "page": 100,
+    "checks": {
+      "document_id": true,
+      "source": true,
+      "page_and_exact_text": true,
+      "printed_page": true,
+      "section_page_level": true,
+      "year": true,
+      "language": true
+    },
+    "complete_and_correct": true,
+    "method": "automated source-offset checks plus Codex contextual review of displayed trace; not student manual labels",
+    "review_status": "ai_review_pending_student_confirmation",
+    "limitation": "Section is a page-level label from contents; not paragraph-level classification."
+  },
+  {
+    "strategy": "B",
+    "question_id": "q19",
+    "rank": 1,
+    "chunk_id": "bb6c7ab8f979eba18c15a2fe0838b1d5",
+    "page": 103,
+    "checks": {
+      "document_id": true,
+      "source": true,
+      "page_and_exact_text": true,
+      "printed_page": true,
+      "section_page_level": true,
+      "year": true,
+      "language": true
+    },
+    "complete_and_correct": true,
+    "method": "automated source-offset checks plus Codex contextual review of displayed trace; not student manual labels",
+    "review_status": "ai_review_pending_student_confirmation",
+    "limitation": "Section is a page-level label from contents; not paragraph-level classification."
+  },
+  {
+    "strategy": "B",
+    "question_id": "q19",
+    "rank": 2,
+    "chunk_id": "32267c20040172b807958a3bf61d1c2a",
+    "page": 76,
+    "checks": {
+      "document_id": true,
+      "source": true,
+      "page_and_exact_text": true,
+      "printed_page": true,
+      "section_page_level": true,
+      "year": true,
+      "language": true
+    },
+    "complete_and_correct": true,
+    "method": "automated source-offset checks plus Codex contextual review of displayed trace; not student manual labels",
+    "review_status": "ai_review_pending_student_confirmation",
+    "limitation": "Section is a page-level label from contents; not paragraph-level classification."
+  },
+  {
+    "strategy": "B",
+    "question_id": "q19",
+    "rank": 3,
+    "chunk_id": "e8e08e241a321cc4e393ebdd563958a1",
+    "page": 75,
+    "checks": {
+      "document_id": true,
+      "source": true,
+      "page_and_exact_text": true,
+      "printed_page": true,
+      "section_page_level": true,
+      "year": true,
+      "language": true
+    },
+    "complete_and_correct": true,
+    "method": "automated source-offset checks plus Codex contextual review of displayed trace; not student manual labels",
+    "review_status": "ai_review_pending_student_confirmation",
+    "limitation": "Section is a page-level label from contents; not paragraph-level classification."
+  },
+  {
+    "strategy": "C",
+    "question_id": "q19",
+    "rank": 1,
+    "chunk_id": "bb6c7ab8f979eba18c15a2fe0838b1d5",
+    "page": 103,
+    "checks": {
+      "document_id": true,
+      "source": true,
+      "page_and_exact_text": true,
+      "printed_page": true,
+      "section_page_level": true,
+      "year": true,
+      "language": true
+    },
+    "complete_and_correct": true,
+    "method": "automated source-offset checks plus Codex contextual review of displayed trace; not student manual labels",
+    "review_status": "ai_review_pending_student_confirmation",
+    "limitation": "Section is a page-level label from contents; not paragraph-level classification."
+  },
+  {
+    "strategy": "C",
+    "question_id": "q19",
+    "rank": 2,
+    "chunk_id": "32267c20040172b807958a3bf61d1c2a",
+    "page": 76,
+    "checks": {
+      "document_id": true,
+      "source": true,
+      "page_and_exact_text": true,
+      "printed_page": true,
+      "section_page_level": true,
+      "year": true,
+      "language": true
+    },
+    "complete_and_correct": true,
+    "method": "automated source-offset checks plus Codex contextual review of displayed trace; not student manual labels",
+    "review_status": "ai_review_pending_student_confirmation",
+    "limitation": "Section is a page-level label from contents; not paragraph-level classification."
+  },
+  {
+    "strategy": "C",
+    "question_id": "q19",
+    "rank": 3,
+    "chunk_id": "e8e08e241a321cc4e393ebdd563958a1",
+    "page": 75,
+    "checks": {
+      "document_id": true,
+      "source": true,
+      "page_and_exact_text": true,
+      "printed_page": true,
+      "section_page_level": true,
+      "year": true,
+      "language": true
+    },
+    "complete_and_correct": true,
+    "method": "automated source-offset checks plus Codex contextual review of displayed trace; not student manual labels",
+    "review_status": "ai_review_pending_student_confirmation",
+    "limitation": "Section is a page-level label from contents; not paragraph-level classification."
+  },
+  {
+    "strategy": "A",
+    "question_id": "q20",
+    "rank": 1,
+    "chunk_id": "27f8531648a7c85ed6d5f2f7cde73bdf",
+    "page": 104,
+    "checks": {
+      "document_id": true,
+      "source": true,
+      "page_and_exact_text": true,
+      "printed_page": true,
+      "section_page_level": true,
+      "year": true,
+      "language": true
+    },
+    "complete_and_correct": true,
+    "method": "automated source-offset checks plus Codex contextual review of displayed trace; not student manual labels",
+    "review_status": "ai_review_pending_student_confirmation",
+    "limitation": "Section is a page-level label from contents; not paragraph-level classification."
+  },
+  {
+    "strategy": "A",
+    "question_id": "q20",
+    "rank": 2,
+    "chunk_id": "0df20aa58498dd4a542edf8943839f7d",
+    "page": 104,
+    "checks": {
+      "document_id": true,
+      "source": true,
+      "page_and_exact_text": true,
+      "printed_page": true,
+      "section_page_level": true,
+      "year": true,
+      "language": true
+    },
+    "complete_and_correct": true,
+    "method": "automated source-offset checks plus Codex contextual review of displayed trace; not student manual labels",
+    "review_status": "ai_review_pending_student_confirmation",
+    "limitation": "Section is a page-level label from contents; not paragraph-level classification."
+  },
+  {
+    "strategy": "A",
+    "question_id": "q20",
+    "rank": 3,
+    "chunk_id": "d6700483355f77fd1bd205c7ad7f983d",
+    "page": 102,
+    "checks": {
+      "document_id": true,
+      "source": true,
+      "page_and_exact_text": true,
+      "printed_page": true,
+      "section_page_level": true,
+      "year": true,
+      "language": true
+    },
+    "complete_and_correct": true,
+    "method": "automated source-offset checks plus Codex contextual review of displayed trace; not student manual labels",
+    "review_status": "ai_review_pending_student_confirmation",
+    "limitation": "Section is a page-level label from contents; not paragraph-level classification."
+  },
+  {
+    "strategy": "B",
+    "question_id": "q20",
+    "rank": 1,
+    "chunk_id": "b45348fdbda268a6b1c9a65983bfc017",
+    "page": 104,
+    "checks": {
+      "document_id": true,
+      "source": true,
+      "page_and_exact_text": true,
+      "printed_page": true,
+      "section_page_level": true,
+      "year": true,
+      "language": true
+    },
+    "complete_and_correct": true,
+    "method": "automated source-offset checks plus Codex contextual review of displayed trace; not student manual labels",
+    "review_status": "ai_review_pending_student_confirmation",
+    "limitation": "Section is a page-level label from contents; not paragraph-level classification."
+  },
+  {
+    "strategy": "B",
+    "question_id": "q20",
+    "rank": 2,
+    "chunk_id": "f850d8caf7bcdbd63e24d431bdfd0cc7",
+    "page": 104,
+    "checks": {
+      "document_id": true,
+      "source": true,
+      "page_and_exact_text": true,
+      "printed_page": true,
+      "section_page_level": true,
+      "year": true,
+      "language": true
+    },
+    "complete_and_correct": true,
+    "method": "automated source-offset checks plus Codex contextual review of displayed trace; not student manual labels",
+    "review_status": "ai_review_pending_student_confirmation",
+    "limitation": "Section is a page-level label from contents; not paragraph-level classification."
+  },
+  {
+    "strategy": "B",
+    "question_id": "q20",
+    "rank": 3,
+    "chunk_id": "bc5b98da0649bc981a6df5f584f70ed0",
+    "page": 102,
+    "checks": {
+      "document_id": true,
+      "source": true,
+      "page_and_exact_text": true,
+      "printed_page": true,
+      "section_page_level": true,
+      "year": true,
+      "language": true
+    },
+    "complete_and_correct": true,
+    "method": "automated source-offset checks plus Codex contextual review of displayed trace; not student manual labels",
+    "review_status": "ai_review_pending_student_confirmation",
+    "limitation": "Section is a page-level label from contents; not paragraph-level classification."
+  },
+  {
+    "strategy": "C",
+    "question_id": "q20",
+    "rank": 1,
+    "chunk_id": "b45348fdbda268a6b1c9a65983bfc017",
+    "page": 104,
+    "checks": {
+      "document_id": true,
+      "source": true,
+      "page_and_exact_text": true,
+      "printed_page": true,
+      "section_page_level": true,
+      "year": true,
+      "language": true
+    },
+    "complete_and_correct": true,
+    "method": "automated source-offset checks plus Codex contextual review of displayed trace; not student manual labels",
+    "review_status": "ai_review_pending_student_confirmation",
+    "limitation": "Section is a page-level label from contents; not paragraph-level classification."
+  },
+  {
+    "strategy": "C",
+    "question_id": "q20",
+    "rank": 2,
+    "chunk_id": "f850d8caf7bcdbd63e24d431bdfd0cc7",
+    "page": 104,
+    "checks": {
+      "document_id": true,
+      "source": true,
+      "page_and_exact_text": true,
+      "printed_page": true,
+      "section_page_level": true,
+      "year": true,
+      "language": true
+    },
+    "complete_and_correct": true,
+    "method": "automated source-offset checks plus Codex contextual review of displayed trace; not student manual labels",
+    "review_status": "ai_review_pending_student_confirmation",
+    "limitation": "Section is a page-level label from contents; not paragraph-level classification."
+  },
+  {
+    "strategy": "C",
+    "question_id": "q20",
+    "rank": 3,
+    "chunk_id": "bc5b98da0649bc981a6df5f584f70ed0",
+    "page": 102,
+    "checks": {
+      "document_id": true,
+      "source": true,
+      "page_and_exact_text": true,
+      "printed_page": true,
+      "section_page_level": true,
+      "year": true,
+      "language": true
+    },
+    "complete_and_correct": true,
+    "method": "automated source-offset checks plus Codex contextual review of displayed trace; not student manual labels",
+    "review_status": "ai_review_pending_student_confirmation",
+    "limitation": "Section is a page-level label from contents; not paragraph-level classification."
+  }
+]

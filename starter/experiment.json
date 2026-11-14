@@ -1,0 +1,17 @@
+{
+  "model": "intfloat/multilingual-e5-small",
+  "revision": "614241f622f53c4eeff9890bdc4f31cfecc418b3",
+  "dimensions": 384,
+  "batch_size": 16,
+  "seed": 42,
+  "metric": "cosine",
+  "search": "exact",
+  "strategies": {
+    "A": {"chunking": "fixed", "size": 500, "overlap": 75, "filter": false},
+    "B": {"chunking": "paragraph", "max_size": 900, "filter": false},
+    "C": {"chunking": "paragraph", "max_size": 900, "filter": true}
+  },
+  "selection_order": ["dev_hit3_desc", "dev_hit1_desc", "ingest_plus_dev_retrieval_seconds_asc", "strategy_name_asc"],
+  "selection_authorization": "User accepted this priority in chat before the first run; final name tie-break is deterministic.",
+  "coherence_sample": {"pages": [75,76,77,78,79,80,81,82,83,84], "position": "first non-header content character on each page; choose the first chunk covering that offset"}
+}

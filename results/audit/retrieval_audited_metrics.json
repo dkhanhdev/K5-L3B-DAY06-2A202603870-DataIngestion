@@ -1,0 +1,86 @@
+{
+  "evaluation_stage": "post_run_audit",
+  "approval_file": "results/audit/alternative_evidence_approval.json",
+  "original_selection_preserved": "C",
+  "method": "Original gold OR approved alternative; same source/page plus full quote; identical saved top-3 for A/B/C. No new retrieval or tuning. Retrieval seconds are copied from the original run, not measured again.",
+  "metrics": [
+    {
+      "strategy": "A",
+      "split": "dev",
+      "n": 15,
+      "hit1_n": 1,
+      "hit3_n": 2,
+      "hit1": 0.06666666666666667,
+      "hit3": 0.13333333333333333,
+      "retrieval_seconds": 0.8109220003243536
+    },
+    {
+      "strategy": "A",
+      "split": "test",
+      "n": 5,
+      "hit1_n": 2,
+      "hit3_n": 2,
+      "hit1": 0.4,
+      "hit3": 0.4,
+      "retrieval_seconds": 0.23121849982999265
+    },
+    {
+      "strategy": "B",
+      "split": "dev",
+      "n": 15,
+      "hit1_n": 5,
+      "hit3_n": 7,
+      "hit1": 0.3333333333333333,
+      "hit3": 0.4666666666666667,
+      "retrieval_seconds": 0.6709961001761258
+    },
+    {
+      "strategy": "B",
+      "split": "test",
+      "n": 5,
+      "hit1_n": 3,
+      "hit3_n": 3,
+      "hit1": 0.6,
+      "hit3": 0.6,
+      "retrieval_seconds": 0.21854609996080399
+    },
+    {
+      "strategy": "C",
+      "split": "dev",
+      "n": 15,
+      "hit1_n": 4,
+      "hit3_n": 8,
+      "hit1": 0.26666666666666666,
+      "hit3": 0.5333333333333333,
+      "retrieval_seconds": 0.6658417999278754
+    },
+    {
+      "strategy": "C",
+      "split": "test",
+      "n": 5,
+      "hit1_n": 3,
+      "hit3_n": 3,
+      "hit1": 0.6,
+      "hit3": 0.6,
+      "retrieval_seconds": 0.2129774997010827
+    }
+  ],
+  "changed_queries": [
+    {
+      "strategy": "B",
+      "split": "dev",
+      "question_id": "q10",
+      "original_hit1": false,
+      "audited_hit1": true,
+      "original_hit3": false,
+      "audited_hit3": true
+    }
+  ],
+  "original_files_sha256": {
+    "results/dev_traces.json": "960ad6ecf139979f148ab9135e87107efc0650571991c8e2483e9706059ba4b9",
+    "results/test_traces.json": "84326fd8fea16b00d5c2ddf55da6219888beedfddd36dc14712c95c9983272fb",
+    "results/dev_metrics.json": "e7470a7b3acab25310097b66a36ae4cd1ec9142d2a7d43284d85c2f05c17d0ff",
+    "results/test_metrics.json": "2314005dff1a8736518f62251eab31aef22c6eafdd049c1c0c1d66630ff5d244",
+    "results/selection.json": "7be997ba9f52071e0667539787a7928be325bf0082ac012977e287758dfaaee9"
+  }
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "strategy": "A",
+    "split": "test",
+    "n": 5,
+    "hit1_n": 2,
+    "hit3_n": 2,
+    "hit1": 0.4,
+    "hit3": 0.4,
+    "retrieval_seconds": 0.23121849982999265
+  },
+  {
+    "strategy": "B",
+    "split": "test",
+    "n": 5,
+    "hit1_n": 3,
+    "hit3_n": 3,
+    "hit1": 0.6,
+    "hit3": 0.6,
+    "retrieval_seconds": 0.21854609996080399
+  },
+  {
+    "strategy": "C",
+    "split": "test",
+    "n": 5,
+    "hit1_n": 3,
+    "hit3_n": 3,
+    "hit1": 0.6,
+    "hit3": 0.6,
+    "retrieval_seconds": 0.2129774997010827
+  }
+]

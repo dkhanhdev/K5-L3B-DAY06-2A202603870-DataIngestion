@@ -1,0 +1,145 @@
+{
+  "created_at": "2026-11-14T03:06:48.623254+00:00",
+  "fingerprint": {
+    "starter/experiment.json": "5ab488bfa8471804842b1b1c160a8589319be7e53dd947b728a6b549db09d50a",
+    "benchmark/questions.json": "e215c961eedf94a4f87a185817ecb8857d30f8f9bfcfdd8a4a7b497ba624854d",
+    "data/processed/pages.jsonl": "728d7c26ceb5e211805a91567ea90e5ac60d50668847296a5db9ca2d4e210fd5",
+    "starter/src/__init__.py": "9d51e4a4713565f1b69bb8f3a0d8ac2c6c8730961e738a65f7a7a4ebd2a593a8",
+    "starter/src/chunking.py": "323fc4dfe0bf11484463246274a7261d2587d610fec07d32eb38854f21433041",
+    "starter/src/embeddings.py": "611b8f18b1daf2cf21ceb44589f5db8d8019653eccd98e396327bd703e235c3d",
+    "starter/src/evaluation.py": "79531142eea9982fd663aaa3b15eb6d251b84f45a1b8bc1dce23306e53beda0e",
+    "starter/src/ingestion.py": "6ec696411fa634b0acde5490f2ba47ca47f166ff0daca98b60e5aa5b7a14a82f",
+    "starter/src/models.py": "9f26a14cd6139c7b608df067894274308ae7b5c2c2ccd10566079c345fae1710",
+    "starter/src/run.py": "293a1a8a4841eab8fbfac44e6f8a41270399f5d162a76a498bfd1f7956080fff",
+    "starter/src/store.py": "d9da2f24fba4a28d63c4adddf70a9692ea51c7b3de866b8551971e87183dc652"
+  },
+  "config": {
+    "model": "intfloat/multilingual-e5-small",
+    "revision": "614241f622f53c4eeff9890bdc4f31cfecc418b3",
+    "dimensions": 384,
+    "batch_size": 16,
+    "seed": 42,
+    "metric": "cosine",
+    "search": "exact",
+    "strategies": {
+      "A": {
+        "chunking": "fixed",
+        "size": 500,
+        "overlap": 75,
+        "filter": false
+      },
+      "B": {
+        "chunking": "paragraph",
+        "max_size": 900,
+        "filter": false
+      },
+      "C": {
+        "chunking": "paragraph",
+        "max_size": 900,
+        "filter": true
+      }
+    },
+    "selection_order": [
+      "dev_hit3_desc",
+      "dev_hit1_desc",
+      "ingest_plus_dev_retrieval_seconds_asc",
+      "strategy_name_asc"
+    ],
+    "selection_authorization": "User accepted this priority in chat before the first run; final name tie-break is deterministic.",
+    "coherence_sample": {
+      "pages": [
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84
+      ],
+      "position": "first non-header content character on each page; choose the first chunk covering that offset"
+    }
+  },
+  "strategies": {
+    "A": {
+      "chunk_count": 304,
+      "characters": 145275,
+      "min_chars": 88,
+      "median_chars": 500,
+      "max_chars": 500,
+      "embedding_seconds": 30.749802000122145,
+      "chunking_seconds": 0.004024500027298927,
+      "store_seconds": 0.25689830002374947,
+      "ingest_seconds": 31.010724800173193,
+      "idempotence": {
+        "passed": true,
+        "before": 304,
+        "after": 304,
+        "content_and_vector_hashes_equal": true
+      },
+      "paid_api_cost_usd": 0,
+      "electricity_cost": "not measured",
+      "embedding_reused_from": null
+    },
+    "B": {
+      "chunk_count": 191,
+      "characters": 124725,
+      "min_chars": 43,
+      "median_chars": 698,
+      "max_chars": 900,
+      "embedding_seconds": 6.086963499896228,
+      "chunking_seconds": 0.007209400180727243,
+      "store_seconds": 0.10085250018164515,
+      "ingest_seconds": 6.195025400258601,
+      "idempotence": {
+        "passed": true,
+        "before": 191,
+        "after": 191,
+        "content_and_vector_hashes_equal": true
+      },
+      "paid_api_cost_usd": 0,
+      "electricity_cost": "not measured",
+      "embedding_reused_from": null
+    },
+    "C": {
+      "chunk_count": 191,
+      "characters": 124725,
+      "min_chars": 43,
+      "median_chars": 698,
+      "max_chars": 900,
+      "embedding_seconds": 6.086963499896228,
+      "chunking_seconds": 0.007209400180727243,
+      "store_seconds": 0.09285009978339076,
+      "ingest_seconds": 6.187022999860346,
+      "idempotence": {
+        "passed": true,
+        "before": 191,
+        "after": 191,
+        "content_and_vector_hashes_equal": true
+      },
+      "paid_api_cost_usd": 0,
+      "electricity_cost": "not measured",
+      "embedding_reused_from": "B"
+    }
+  },
+  "database": {
+    "postgresql": "16.15",
+    "pgvector": "0.8.6"
+  },
+  "python": "3.14.7",
+  "libraries": {
+    "torch": "2.15.0",
+    "sentence-transformers": "6.2.0",
+    "transformers": "5.22.1",
+    "pypdf": "7.0.0",
+    "psycopg": "3.3.8",
+    "numpy": "2.5.3"
+  },
+  "device": "cpu",
+  "threads": 4,
+  "model_dimensions": 384,
+  "max_observed_input_tokens": 251,
+  "total_wall_seconds_including_model_load_and_reingest": 72.83165409998037
+}

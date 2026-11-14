@@ -1,0 +1,25 @@
+{
+  "unit_and_integration_tests": {
+    "command": "RUN_PGVECTOR_TESTS=1 python -m unittest discover -s tests -v",
+    "passed": 5,
+    "failed": 0
+  },
+  "postgres_restart_persistence": {
+    "passed": true,
+    "counts": {
+      "A": 304,
+      "B": 191,
+      "C": 191
+    },
+    "all_ids_text_metadata_and_vectors_unchanged": true
+  },
+  "notes": "Tests actually executed; dedicated __integration_test__ strategy removed after test.",
+  "trace_integrity": {
+    "dev_retrievals": 45,
+    "test_retrievals": 15,
+    "chunks_per_retrieval": 3,
+    "all_pages_within_selected_corpus": true,
+    "frozen_fingerprints_unchanged": true,
+    "chronology": "dev completed < selection frozen < test evaluated"
+  }
+}

@@ -1,0 +1,7 @@
+strategy,split,hit1_n,hit3_n,n,audit_basis
+A,dev,1,2,15,q10 alternative PDF77 approved after run; saved retrievals unchanged
+A,test,2,2,5,q10 alternative PDF77 approved after run; saved retrievals unchanged
+B,dev,5,7,15,q10 alternative PDF77 approved after run; saved retrievals unchanged
+B,test,3,3,5,q10 alternative PDF77 approved after run; saved retrievals unchanged
+C,dev,4,8,15,q10 alternative PDF77 approved after run; saved retrievals unchanged
+C,test,3,3,5,q10 alternative PDF77 approved after run; saved retrievals unchanged

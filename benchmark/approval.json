@@ -1,0 +1,15 @@
+{
+  "status": "approved",
+  "approved_by": "student (user confirmation in chat)",
+  "approved_at": "2026-11-14",
+  "scope": "All 20 questions and expected answers checked against source and approved by user; existing split retained.",
+  "benchmark_file": "benchmark/questions.json",
+  "sha256": "4b351e9e19d5060d72bb0d4d936023f23130fdcef3abb001ecd0c94f39d62fe3",
+  "dev_count": 15,
+  "test_count": 5,
+  "retrieval_results_reviewed": false,
+  "alternative_evidence_review": "not_exhaustive",
+  "selection_criterion_status": "approved by user in chat before first run: dev Hit@3, then Hit@1, then processing time",
+  "sha256_representation": "UTF-8 text with LF line endings",
+  "run_file_sha256": "e215c961eedf94a4f87a185817ecb8857d30f8f9bfcfdd8a4a7b497ba624854d"
+}

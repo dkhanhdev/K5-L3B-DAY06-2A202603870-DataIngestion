@@ -1,0 +1,17 @@
+{
+  "status": "student_reviewed_and_approved",
+  "reviewer": "Ngô Duy Khánh (student; confirmation in chat)",
+  "recorded_at": "2026-11-14T03:33:33.625006+00:00",
+  "basis": "User confirmed checking the proposed audit and agreeing with the assessments in chat.",
+  "coherence_cases": 30,
+  "grounding_cases": 15,
+  "metadata_records": 45,
+  "independent_blind_review": false,
+  "original_ai_proposals_preserved": true,
+  "scope_excludes": "No approval of new alternative gold evidence and no change to retrieval metrics, configuration or selected strategy.",
+  "files_sha256": {
+    "coherence_samples.json": "b8a805c8c059736d1600f05f52db484eba7414911a2c25508779d6f0fca82b8f",
+    "human_review.json": "b96218729f56c407160eea939126b326483c9c9f0b4993672cd65c56419308c6",
+    "summary_human_review.json": "d83e60cca30fbeab718915f9768d9306f9daa735eadc45e3fbe2bb882da189a0"
+  }
+}

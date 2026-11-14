@@ -1,0 +1,57 @@
+{
+  "frozen_at": "2026-11-14T03:08:32.032540+00:00",
+  "fingerprint": {
+    "starter/experiment.json": "5ab488bfa8471804842b1b1c160a8589319be7e53dd947b728a6b549db09d50a",
+    "benchmark/questions.json": "e215c961eedf94a4f87a185817ecb8857d30f8f9bfcfdd8a4a7b497ba624854d",
+    "data/processed/pages.jsonl": "728d7c26ceb5e211805a91567ea90e5ac60d50668847296a5db9ca2d4e210fd5",
+    "starter/src/__init__.py": "9d51e4a4713565f1b69bb8f3a0d8ac2c6c8730961e738a65f7a7a4ebd2a593a8",
+    "starter/src/chunking.py": "323fc4dfe0bf11484463246274a7261d2587d610fec07d32eb38854f21433041",
+    "starter/src/embeddings.py": "611b8f18b1daf2cf21ceb44589f5db8d8019653eccd98e396327bd703e235c3d",
+    "starter/src/evaluation.py": "79531142eea9982fd663aaa3b15eb6d251b84f45a1b8bc1dce23306e53beda0e",
+    "starter/src/ingestion.py": "6ec696411fa634b0acde5490f2ba47ca47f166ff0daca98b60e5aa5b7a14a82f",
+    "starter/src/models.py": "9f26a14cd6139c7b608df067894274308ae7b5c2c2ccd10566079c345fae1710",
+    "starter/src/run.py": "293a1a8a4841eab8fbfac44e6f8a41270399f5d162a76a498bfd1f7956080fff",
+    "starter/src/store.py": "d9da2f24fba4a28d63c4adddf70a9692ea51c7b3de866b8551971e87183dc652"
+  },
+  "criterion": [
+    "dev_hit3_desc",
+    "dev_hit1_desc",
+    "ingest_plus_dev_retrieval_seconds_asc",
+    "strategy_name_asc"
+  ],
+  "selected_strategy": "C",
+  "ranking_on_dev": [
+    {
+      "strategy": "C",
+      "split": "dev",
+      "n": 15,
+      "hit1_n": 4,
+      "hit3_n": 8,
+      "hit1": 0.26666666666666666,
+      "hit3": 0.5333333333333333,
+      "retrieval_seconds": 0.6658417999278754
+    },
+    {
+      "strategy": "B",
+      "split": "dev",
+      "n": 15,
+      "hit1_n": 4,
+      "hit3_n": 6,
+      "hit1": 0.26666666666666666,
+      "hit3": 0.4,
+      "retrieval_seconds": 0.6709961001761258
+    },
+    {
+      "strategy": "A",
+      "split": "dev",
+      "n": 15,
+      "hit1_n": 1,
+      "hit3_n": 2,
+      "hit1": 0.06666666666666667,
+      "hit3": 0.13333333333333333,
+      "retrieval_seconds": 0.8109220003243536
+    }
+  ],
+  "test_results_seen": false,
+  "dev_metrics_sha256": "e7470a7b3acab25310097b66a36ae4cd1ec9142d2a7d43284d85c2f05c17d0ff"
+}

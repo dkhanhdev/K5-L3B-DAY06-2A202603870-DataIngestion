@@ -1,0 +1,122 @@
+[
+  {
+    "strategy": "A",
+    "question_id": "q16",
+    "score": 1,
+    "reason": "Có đoạn nói thiếu bằng chứng EMDE và áp lực tăng giá điện tại Mỹ, nhưng thiếu phần nghiên cứu không thấy tác động nên chưa đủ đối chiếu kết quả trái chiều.",
+    "reviewer": "Codex AI contextual review",
+    "review_status": "ai_review_pending_student_confirmation"
+  },
+  {
+    "strategy": "B",
+    "question_id": "q16",
+    "score": 1,
+    "reason": "Có bằng chứng nguy cơ tăng giá và điều kiện đầu tư hạ tầng nhưng không truy xuất đoạn ở PDF 97 về kết quả nghiên cứu trái chiều; chưa đủ trả lời đầy đủ.",
+    "reviewer": "Codex AI contextual review",
+    "review_status": "ai_review_pending_student_confirmation"
+  },
+  {
+    "strategy": "C",
+    "question_id": "q16",
+    "score": 1,
+    "reason": "Có bằng chứng nguy cơ tăng giá và điều kiện đầu tư hạ tầng nhưng không truy xuất đoạn ở PDF 97 về kết quả nghiên cứu trái chiều; chưa đủ trả lời đầy đủ.",
+    "reviewer": "Codex AI contextual review",
+    "review_status": "ai_review_pending_student_confirmation"
+  },
+  {
+    "strategy": "A",
+    "question_id": "q17",
+    "score": 2,
+    "reason": "Top-1 liệt kê đủ bốn nhóm kỹ năng và nguồn trích dẫn.",
+    "reviewer": "Codex AI contextual review",
+    "review_status": "ai_review_pending_student_confirmation"
+  },
+  {
+    "strategy": "B",
+    "question_id": "q17",
+    "score": 2,
+    "reason": "Top-1 liệt kê đủ bốn nhóm kỹ năng và nguồn trích dẫn.",
+    "reviewer": "Codex AI contextual review",
+    "review_status": "ai_review_pending_student_confirmation"
+  },
+  {
+    "strategy": "C",
+    "question_id": "q17",
+    "score": 2,
+    "reason": "Top-1 liệt kê đủ bốn nhóm kỹ năng và nguồn trích dẫn.",
+    "reviewer": "Codex AI contextual review",
+    "review_status": "ai_review_pending_student_confirmation"
+  },
+  {
+    "strategy": "A",
+    "question_id": "q18",
+    "score": 2,
+    "reason": "Hai chunk đầu tại PDF 101 ghép đủ đối tượng quốc gia, giáo dục cơ bản và đầu tư giáo dục bậc cao; không có một chunk chứa toàn bộ gold.",
+    "reviewer": "Codex AI contextual review",
+    "review_status": "ai_review_pending_student_confirmation"
+  },
+  {
+    "strategy": "B",
+    "question_id": "q18",
+    "score": 2,
+    "reason": "Top-1 tại PDF 101 chứa đủ nhóm quốc gia, ưu tiên giáo dục cơ bản và đầu tư giáo dục bậc cao.",
+    "reviewer": "Codex AI contextual review",
+    "review_status": "ai_review_pending_student_confirmation"
+  },
+  {
+    "strategy": "C",
+    "question_id": "q18",
+    "score": 2,
+    "reason": "Top-1 tại PDF 101 chứa đủ nhóm quốc gia, ưu tiên giáo dục cơ bản và đầu tư giáo dục bậc cao.",
+    "reviewer": "Codex AI contextual review",
+    "review_status": "ai_review_pending_student_confirmation"
+  },
+  {
+    "strategy": "A",
+    "question_id": "q19",
+    "score": 2,
+    "reason": "Top-1 tại PDF 103 nêu rõ không cần tham gia mọi công đoạn và lý do về đầu tư/năng lực.",
+    "reviewer": "Codex AI contextual review",
+    "review_status": "ai_review_pending_student_confirmation"
+  },
+  {
+    "strategy": "B",
+    "question_id": "q19",
+    "score": 2,
+    "reason": "Top-1 tại PDF 103 nêu rõ không cần tham gia mọi công đoạn và lý do về đầu tư/năng lực.",
+    "reviewer": "Codex AI contextual review",
+    "review_status": "ai_review_pending_student_confirmation"
+  },
+  {
+    "strategy": "C",
+    "question_id": "q19",
+    "score": 2,
+    "reason": "Top-1 tại PDF 103 nêu rõ không cần tham gia mọi công đoạn và lý do về đầu tư/năng lực.",
+    "reviewer": "Codex AI contextual review",
+    "review_status": "ai_review_pending_student_confirmation"
+  },
+  {
+    "strategy": "A",
+    "question_id": "q20",
+    "score": 2,
+    "reason": "Hai chunk đầu cùng PDF 104 ghép được hơn 30.000 vụ/tháng và 2.000 giờ công/tháng; gold nguyên văn bị chia chunk. Grounding xét top-3 còn Hit@3 bắt buộc xét một chunk.",
+    "reviewer": "Codex AI contextual review",
+    "review_status": "ai_review_pending_student_confirmation"
+  },
+  {
+    "strategy": "B",
+    "question_id": "q20",
+    "score": 2,
+    "reason": "Hai chunk đầu cùng PDF 104 ghép được hơn 30.000 vụ/tháng và 2.000 giờ công/tháng; gold nguyên văn bị chia chunk. Grounding xét top-3 còn Hit@3 bắt buộc xét một chunk.",
+    "reviewer": "Codex AI contextual review",
+    "review_status": "ai_review_pending_student_confirmation"
+  },
+  {
+    "strategy": "C",
+    "question_id": "q20",
+    "score": 2,
+    "reason": "Hai chunk đầu cùng PDF 104 ghép được hơn 30.000 vụ/tháng và 2.000 giờ công/tháng; gold nguyên văn bị chia chunk. Grounding xét top-3 còn Hit@3 bắt buộc xét một chunk.",
+    "reviewer": "Codex AI contextual review",
+    "review_status": "ai_review_pending_student_confirmation"
+  }
+]

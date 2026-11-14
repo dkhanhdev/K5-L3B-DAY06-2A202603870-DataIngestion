@@ -1,0 +1,31 @@
+[
+  {
+    "strategy": "A",
+    "question_id": "q16",
+    "requested_filter": {
+      "section": "Policy implications"
+    },
+    "applied_filter": null,
+    "top3_complies": true
+  },
+  {
+    "strategy": "B",
+    "question_id": "q16",
+    "requested_filter": {
+      "section": "Policy implications"
+    },
+    "applied_filter": null,
+    "top3_complies": true
+  },
+  {
+    "strategy": "C",
+    "question_id": "q16",
+    "requested_filter": {
+      "section": "Policy implications"
+    },
+    "applied_filter": {
+      "section": "Policy implications"
+    },
+    "top3_complies": true
+  }
+]

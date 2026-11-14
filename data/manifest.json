@@ -1,0 +1,233 @@
+{
+  "document_id": "worldbank-eap-2026-10",
+  "title": "Riding the AI Wave: East Asia and Pacific Economic Update, October 2026",
+  "source_path": "data/tailieu.pdf",
+  "source_url": "https://doi.org/10.1596/978-1-4648-2362-6",
+  "license_or_permission": "CC BY 3.0 IGO; physical PDF page 6; check third-party content conditions",
+  "accessed_at": "2026-11-14",
+  "local_verified_at": "2026-11-14",
+  "page_start": 75,
+  "page_end": 104,
+  "printed_page_offset": -20,
+  "metadata": {
+    "chapter": 2,
+    "year": 2026,
+    "language": "en"
+  },
+  "sections": [
+    {
+      "start": 75,
+      "end": 78,
+      "section": "Introduction"
+    },
+    {
+      "start": 79,
+      "end": 82,
+      "section": "AI adoption"
+    },
+    {
+      "start": 83,
+      "end": 88,
+      "section": "AI exposure, jobs and skills demand"
+    },
+    {
+      "start": 89,
+      "end": 91,
+      "section": "AI innovation"
+    },
+    {
+      "start": 92,
+      "end": 104,
+      "section": "Policy implications"
+    }
+  ],
+  "sha256": "dcacb91c9ce3486d9c633166785f2f3f0735af0e1713cc39e894c34e2b30698f",
+  "total_physical_pages": 122,
+  "selected_content_pages": 30,
+  "counting_rule": "Physical PDF 75-104 (printed 55-84), chapter 2 body, excludes front matter, chapter cover and references; figures remain within source pages.",
+  "section_assignment": "Page-level labels from contents; transition pages may contain the previous section too. Box 2.1 belongs to Policy implications.",
+  "pages": [
+    {
+      "page_id": "worldbank-eap-2026-10:p75",
+      "page": 75,
+      "printed_page": 55,
+      "characters": 3495
+    },
+    {
+      "page_id": "worldbank-eap-2026-10:p76",
+      "page": 76,
+      "printed_page": 56,
+      "characters": 4680
+    },
+    {
+      "page_id": "worldbank-eap-2026-10:p77",
+      "page": 77,
+      "printed_page": 57,
+      "characters": 4148
+    },
+    {
+      "page_id": "worldbank-eap-2026-10:p78",
+      "page": 78,
+      "printed_page": 58,
+      "characters": 3711
+    },
+    {
+      "page_id": "worldbank-eap-2026-10:p79",
+      "page": 79,
+      "printed_page": 59,
+      "characters": 3694
+    },
+    {
+      "page_id": "worldbank-eap-2026-10:p80",
+      "page": 80,
+      "printed_page": 60,
+      "characters": 4987
+    },
+    {
+      "page_id": "worldbank-eap-2026-10:p81",
+      "page": 81,
+      "printed_page": 61,
+      "characters": 4670
+    },
+    {
+      "page_id": "worldbank-eap-2026-10:p82",
+      "page": 82,
+      "printed_page": 62,
+      "characters": 5356
+    },
+    {
+      "page_id": "worldbank-eap-2026-10:p83",
+      "page": 83,
+      "printed_page": 63,
+      "characters": 4693
+    },
+    {
+      "page_id": "worldbank-eap-2026-10:p84",
+      "page": 84,
+      "printed_page": 64,
+      "characters": 5282
+    },
+    {
+      "page_id": "worldbank-eap-2026-10:p85",
+      "page": 85,
+      "printed_page": 65,
+      "characters": 3683
+    },
+    {
+      "page_id": "worldbank-eap-2026-10:p86",
+      "page": 86,
+      "printed_page": 66,
+      "characters": 4088
+    },
+    {
+      "page_id": "worldbank-eap-2026-10:p87",
+      "page": 87,
+      "printed_page": 67,
+      "characters": 5213
+    },
+    {
+      "page_id": "worldbank-eap-2026-10:p88",
+      "page": 88,
+      "printed_page": 68,
+      "characters": 4403
+    },
+    {
+      "page_id": "worldbank-eap-2026-10:p89",
+      "page": 89,
+      "printed_page": 69,
+      "characters": 4856
+    },
+    {
+      "page_id": "worldbank-eap-2026-10:p90",
+      "page": 90,
+      "printed_page": 70,
+      "characters": 5005
+    },
+    {
+      "page_id": "worldbank-eap-2026-10:p91",
+      "page": 91,
+      "printed_page": 71,
+      "characters": 4026
+    },
+    {
+      "page_id": "worldbank-eap-2026-10:p92",
+      "page": 92,
+      "printed_page": 72,
+      "characters": 4215
+    },
+    {
+      "page_id": "worldbank-eap-2026-10:p93",
+      "page": 93,
+      "printed_page": 73,
+      "characters": 3745
+    },
+    {
+      "page_id": "worldbank-eap-2026-10:p94",
+      "page": 94,
+      "printed_page": 74,
+      "characters": 3622
+    },
+    {
+      "page_id": "worldbank-eap-2026-10:p95",
+      "page": 95,
+      "printed_page": 75,
+      "characters": 3620
+    },
+    {
+      "page_id": "worldbank-eap-2026-10:p96",
+      "page": 96,
+      "printed_page": 76,
+      "characters": 4338
+    },
+    {
+      "page_id": "worldbank-eap-2026-10:p97",
+      "page": 97,
+      "printed_page": 77,
+      "characters": 3722
+    },
+    {
+      "page_id": "worldbank-eap-2026-10:p98",
+      "page": 98,
+      "printed_page": 78,
+      "characters": 3469
+    },
+    {
+      "page_id": "worldbank-eap-2026-10:p99",
+      "page": 99,
+      "printed_page": 79,
+      "characters": 4210
+    },
+    {
+      "page_id": "worldbank-eap-2026-10:p100",
+      "page": 100,
+      "printed_page": 80,
+      "characters": 3135
+    },
+    {
+      "page_id": "worldbank-eap-2026-10:p101",
+      "page": 101,
+      "printed_page": 81,
+      "characters": 3279
+    },
+    {
+      "page_id": "worldbank-eap-2026-10:p102",
+      "page": 102,
+      "printed_page": 82,
+      "characters": 3723
+    },
+    {
+      "page_id": "worldbank-eap-2026-10:p103",
+      "page": 103,
+      "printed_page": 83,
+      "characters": 3696
+    },
+    {
+      "page_id": "worldbank-eap-2026-10:p104",
+      "page": 104,
+      "printed_page": 84,
+      "characters": 3961
+    }
+  ],
+  "source_id": "worldbank-eap-2026-10",
+  "source_path_or_url": "https://doi.org/10.1596/978-1-4648-2362-6"
+}

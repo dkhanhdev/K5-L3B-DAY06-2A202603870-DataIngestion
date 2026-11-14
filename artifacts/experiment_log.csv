@@ -1,4 +1,4 @@
 strategy,chunking,chunk_size,overlap,metadata,filter,vectorizer,hypothesis,dev_hit1,dev_hit3,test_hit1,test_hit3,notes
-A,,,,,,,,,,,,
-B,,,,,,,,,,,,
-C,,,,,,,,,,,,
+A,fixed,500,75,document_id/source/page/printed_page/chapter/section/year/language,none,intfloat/multilingual-e5-small,Baseline fixed windows,1/15,2/15,2/5,2/5,"Actual run; strict evidence metric; AI-assisted audits reviewed and approved by student; hypotheses are descriptive, not a separate preregistration"
+B,paragraph_heuristic,900,0,document_id/source/page/printed_page/chapter/section/year/language,none,intfloat/multilingual-e5-small,Paragraph boundaries may preserve evidence better,4/15,6/15,3/5,3/5,"Actual run; strict evidence metric; AI-assisted audits reviewed and approved by student; hypotheses are descriptive, not a separate preregistration"
+C,paragraph_heuristic,900,0,document_id/source/page/printed_page/chapter/section/year/language,question section if supplied,intfloat/multilingual-e5-small,Restrict question scope using the same chunks as B,4/15,8/15,3/5,3/5,"Actual run; strict evidence metric; AI-assisted audits reviewed and approved by student; hypotheses are descriptive, not a separate preregistration"

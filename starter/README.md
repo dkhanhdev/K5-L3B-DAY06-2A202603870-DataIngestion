@@ -1,5 +1,10 @@
 # Starter · PostgreSQL + pgvector
 
+> **Cập nhật bài làm:** các module pipeline đã được hiện thực. Chạy theo
+> [docs/PIPELINE.md](../docs/PIPELINE.md): `python -m src.run ingest`, `dev`, `freeze`,
+> rồi `test`. Máy hiện dùng PostgreSQL 16.15 + pgvector 0.8.6 cài riêng trong `.runtime/`.
+> Mô tả TODO bên dưới là hướng dẫn starter gốc, không phản ánh trạng thái code hiện tại.
+
 Bộ khởi động **tùy chọn** cho lab cá nhân. Docker Compose tạo PostgreSQL + pgvector local; các file trong `src/` là **khung pseudocode có TODO**, chưa đọc tài liệu, tạo embedding, lưu vector hay chạy benchmark. Bạn cần tự hiện thực. Vẫn có thể chọn Qdrant, Chroma hoặc vector store tương đương theo [GUIDE.md](../GUIDE.md).
 
 ## Cấu trúc

@@ -1,0 +1,37 @@
+{
+  "review_date": "2026-11-14",
+  "checks": {
+    "30_content_pages": true,
+    "pdf_manifest_hash": true,
+    "20_questions_15dev_5test": true,
+    "filters_3plus_including_test": true,
+    "evidence_exists": true,
+    "frozen_input_hashes": true,
+    "dev_trace_count": true,
+    "dev_metrics_match": true,
+    "dev_source_offsets": true,
+    "test_trace_count": true,
+    "test_metrics_match": true,
+    "test_source_offsets": true,
+    "dev_then_freeze_then_test": true,
+    "B_C_identical_chunks": true,
+    "human_audit_complete": true,
+    "audit_approval_hashes": true,
+    "no_common_secret_patterns": true
+  },
+  "scope": "Read-only consistency checks; previous integration tests not rerun. Secret scan covers common patterns only, not a guarantee.",
+  "open_items": [
+    "q10 equivalence approved and audited; alternative gold for other questions may still be incomplete",
+    "clean environment reproduction and grader repository access not verified",
+    "local commits created; push, grader access and submission not performed"
+  ],
+  "completed_followups": [
+    "accessed_at=2026-11-14 confirmed by student",
+    "known STUDENT name/ID/class/topic/repo populated",
+    "report renamed 2A202603870_NgoDuyKhanh.md",
+    "first-person wording accepted by student; AI disclosure retained in final report section",
+    "stale corpus/benchmark instructions corrected; historical AI files indexed separately",
+    "q10 PDF77 alternative evidence approved; supplemental scores applied equally to A/B/C without altering frozen results",
+    "5/5 unit/integration tests rerun successfully before commit; content commit df8987a936258e4f33701bc7e97ab397e24d9c4e"
+  ]
+}
